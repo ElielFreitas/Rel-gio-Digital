@@ -29,5 +29,3 @@ Sinta-se à vontade para contribuir com melhorias ou sugestões. Para isso, faç
 
 ## Imagens
 ![image](https://github.com/ElielFreitas/Relogio-Digital/assets/105892996/26185f10-b2db-4628-84a2-9f195c627ab8)
-
-![image](https://github.com/ElielFreitas/Relogio-Digital/assets/105892996/c3cfb4cb-2a05-461b-8cfd-f05d46bce42c)
